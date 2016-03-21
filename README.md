@@ -2,7 +2,7 @@
 Map your static libs, add them as scripts tags to your ejs template.
 
 ## Installation
-$ npm install ejs-map-libs
+> $ npm install ejs-map-libs
 
 ## API
 > mapLibsTag(dirname, publicPath)
